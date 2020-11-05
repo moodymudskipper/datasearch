@@ -15,3 +15,5 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
 Imports: 
     progress
+URL: https://github.com/moodymudskipper/datasearch
+BugReports: https://github.com/moodymudskipper/datasearch/issues
