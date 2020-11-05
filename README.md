@@ -28,7 +28,7 @@ dplyr_all <-
 View(dplyr_all)
 ```
 
-![dplyr](inst/images/datasearch1.gif)
+![dplyr](https://github.com/moodymudskipper/datasearch/raw/master/inst/images/datasearch1.gif)
 
 ``` r
 #~~~~~~~~~~~~~ datasets from package "datasets" restricted by condition ~~~~~~~~
@@ -39,7 +39,7 @@ datasets_ncol5 <-
 View(datasets_ncol5)
 ```
 
-![datasets](inst/images/datasearch2.gif)
+![datasets](https://github.com/moodymudskipper/datasearch/raw/master/inst/images/datasearch2.gif)
 
 ``` r
 #~~~~~~~~~~~~~ all datasets from all installed packages, no restriction ~~~~~~~~
@@ -60,4 +60,4 @@ my_subset <- subset(
 View(my_subset)
 ```
 
-![all](inst/images/datasearch3.gif)
+![all](https://github.com/moodymudskipper/datasearch/raw/master/inst/images/datasearch3.gif)
