@@ -1,0 +1,17 @@
+Package: datasearch
+Title: Find Datasets Observing Specific Conditions
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Antoine",
+           family = "Fabri",
+           role = c("aut", "cre"),
+           email = "antoine.fabri@gmail.com")
+Description: 'datasearch' is a one function package that can be used to find datasets observing specific conditions, either in a specific package, a list of packages, or all installed packages.
+License: GPL-3
+Encoding: UTF-8
+Language: en
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Imports: 
+    progress
