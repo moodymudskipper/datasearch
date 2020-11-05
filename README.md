@@ -28,7 +28,7 @@ dplyr_all <-
 View(dplyr_all)
 ```
 
-![dplyr](C:/R/datasearch1.gif)
+![dplyr](inst/images/datasearch1.gif)
 
 ``` r
 #~~~~~~~~~~~~~ datasets from package "datasets" restricted by condition ~~~~~~~~
@@ -39,7 +39,7 @@ datasets_ncol5 <-
 View(datasets_ncol5)
 ```
 
-![datasets](C:/R/datasearch2.gif)
+![datasets](inst/images/datasearch2.gif)
 
 ``` r
 #~~~~~~~~~~~~~ all datasets from all installed packages, no restriction ~~~~~~~~
@@ -60,4 +60,4 @@ my_subset <- subset(
 View(my_subset)
 ```
 
-![all](C:/R/datasearch3.gif)
+![all](inst/images/datasearch3.gif)
